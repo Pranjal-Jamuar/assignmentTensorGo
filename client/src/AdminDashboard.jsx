@@ -1,3 +1,5 @@
+// This took a lot of time so created a separate component for this
+
 import { useState, useEffect } from "react"
 
 function AdminDashboard() {

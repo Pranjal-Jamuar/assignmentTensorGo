@@ -1,3 +1,5 @@
+// Created all the components in a single "App.jsx" due to being on a time crunch
+
 import { useState, useEffect } from "react"
 import {
   BrowserRouter as Router,
@@ -138,6 +140,8 @@ function App() {
     </Router>
   )
 }
+
+// Use of inline css
 
 const styles = {
   centeredPage: {

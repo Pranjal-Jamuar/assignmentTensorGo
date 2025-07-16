@@ -1,3 +1,5 @@
+// Created a separate file for Nodemailer to handle mails
+
 import nodemailer from "nodemailer"
 import dotenv from "dotenv"
 

@@ -1,3 +1,5 @@
+// This handles the whole backend
+
 import express from "express"
 import cors from "cors"
 import Stripe from "stripe"

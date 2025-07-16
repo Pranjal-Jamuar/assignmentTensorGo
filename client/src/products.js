@@ -1,5 +1,4 @@
-// products.js
-
+// Hardcoded the products for this assignment
 const products = [
   {
     id: "prod001",
